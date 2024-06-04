@@ -1,4 +1,4 @@
-# -OTP-Generation-and-Financial-Calculations
+# OTP-Generation-and-Financial-Calculations
 This repository contains a Python script that performs two main tasks: generating One Time Passwords (OTPs) and calculating financial amounts based on given parameters.
 
 Overview
